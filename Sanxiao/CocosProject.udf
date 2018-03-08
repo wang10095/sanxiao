@@ -1,0 +1,43 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="XCode" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.lua2pro" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-10" />
+        <iOS_Target Value="lua2pro-mobile\" />
+        <iOS_BundleID Value="iPhone Distribution: Hongbo Co., Ltd (VZFCTXXNVA)" />
+        <Platform Value="None" />
+        <RunPlatform Value="Mac" />
+        <FrameworkVersion Value="cocos2d-x-3.9" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="MainScene.csd" />
+          <FilePathData Path="ChpterScene.csd" />
+          <FilePathData Path="GameScene.csd" />
+          <FilePathData Path="cell_red_gem.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="GameScene.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

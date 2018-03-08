@@ -1,0 +1,29 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 50,
+    "noCache" : true,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "extensions"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/MainScene.js",
+        "src/ChapterScene.js",
+        "src/GameScene.js",
+
+        "src/model/RedGem.js",
+
+        "src/core/Config.js",
+        "src/core/AudioManager.js",
+        "src/core/Utils.js",
+        "src/NetWork/HttpHelper.js",
+        "src/NetWork/NetManager.js",
+        "src/NetWork/NetToData.js"
+    ]
+}

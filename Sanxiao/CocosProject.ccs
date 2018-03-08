@@ -1,0 +1,347 @@
+<Solution>
+  <PropertyGroup Name="CocosProject" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="media">
+          <Folder Name="bag">
+            <Image Name="bag_title.png" />
+            <Image Name="battle_recross_c.png" />
+          </Folder>
+          <Folder Name="bg">
+            <Image Name="back_ground.png" />
+            <Image Name="battle_tips_bg3.png" />
+            <Image Name="every_back.png" />
+            <Image Name="tanChuan_bg.png" />
+            <Image Name="tanChuang_EveryDay_bg.png" />
+          </Folder>
+          <Folder Name="chapter">
+            <Image Name="battle_bt_start.png" />
+            <Image Name="battle_cross_bling.png" />
+            <Image Name="battle_cross_bling_back.png" />
+            <Image Name="battle_recross_power.png" />
+            <Image Name="choose_back_add.png" />
+            <Image Name="choose_bt_bag.png" />
+            <Image Name="choose_bt_every.png" />
+            <Image Name="choose_bt_everyday.png" />
+            <Image Name="choose_bt_jiling.png" />
+            <Image Name="choose_bt_pet.png" />
+            <Image Name="choose_bt_shop.png" />
+            <Image Name="choose_coming.png" />
+            <Image Name="choose_down_back.png" />
+            <Image Name="choose_shop_zhe.png" />
+            <Image Name="choose_top_back.png" />
+            <Image Name="coin_sprite.png" />
+            <Image Name="combo_light.png" />
+            <Image Name="cs_h.png" />
+            <Image Name="cs_y.png" />
+            <Image Name="each_bring.png" />
+            <Image Name="each_bt.png" />
+            <Image Name="each_bt_tips.png" />
+            <Image Name="each_nextday.png" />
+            <Image Name="each_title.png" />
+            <Image Name="every_bt_false.png" />
+            <Image Name="every_bt_open.png" />
+            <Image Name="every_bt_true.png" />
+            <Image Name="every_talk_back.png" />
+            <Image Name="everyday_award.png" />
+            <Image Name="everyday_word.png" />
+            <Image Name="level_icon_lock.png" />
+            <Image Name="level_icons1.png" />
+            <Image Name="level_icons2.png" />
+            <Image Name="level_icons3.png" />
+            <Image Name="level_icons4.png" />
+            <Image Name="level_icons5.png" />
+            <Image Name="level_icons6.png" />
+            <Image Name="task_cell_0.png" />
+            <Image Name="task_hurt_0.png" />
+            <Image Name="task_hurt_01.png" />
+            <Image Name="task_hurt_1.png" />
+            <Image Name="task_hurt_2.png" />
+            <Image Name="task_hurt_3.png" />
+            <Image Name="task_hurt_4.png" />
+            <Image Name="task_hurt_5.png" />
+            <Image Name="xuehua.png" />
+          </Folder>
+          <Folder Name="font">
+            <Fnt Name="hanzi.fnt" />
+            <Fnt Name="shuzi1.fnt" />
+          </Folder>
+          <Folder Name="game">
+            <PlistImageFolder Image="CellSprite.png" PListFile="CellSprite.plist" Name=".CellSprite_PList.Dir">
+              <PlistImageFile Name="barrier_sprite_1.png" Key="barrier_sprite_1.png" />
+              <PlistImageFile Name="barrier_sprite_2.png" Key="barrier_sprite_2.png" />
+              <PlistImageFile Name="block_ice_1.png" Key="block_ice_1.png" />
+              <PlistImageFile Name="block_ice_2.png" Key="block_ice_2.png" />
+              <PlistImageFile Name="block_sprite_1.png" Key="block_sprite_1.png" />
+              <PlistImageFile Name="block_sprite_2.png" Key="block_sprite_2.png" />
+              <PlistImageFile Name="car_sprite_1.png" Key="car_sprite_1.png" />
+              <PlistImageFile Name="car_sprite_2.png" Key="car_sprite_2.png" />
+              <PlistImageFile Name="car_sprite_3.png" Key="car_sprite_3.png" />
+              <PlistImageFile Name="cell_ice_1.png" Key="cell_ice_1.png" />
+              <PlistImageFile Name="cell_lock_1.png" Key="cell_lock_1.png" />
+              <PlistImageFile Name="cell_lock_2.png" Key="cell_lock_2.png" />
+              <PlistImageFile Name="cell_lock_3.png" Key="cell_lock_3.png" />
+              <PlistImageFile Name="cell_lock_4.png" Key="cell_lock_4.png" />
+              <PlistImageFile Name="cell_lock_5.png" Key="cell_lock_5.png" />
+              <PlistImageFile Name="cell_lock_6.png" Key="cell_lock_6.png" />
+              <PlistImageFile Name="cell_snow_1.png" Key="cell_snow_1.png" />
+              <PlistImageFile Name="cell_snow_2.png" Key="cell_snow_2.png" />
+              <PlistImageFile Name="cell_snow_3.png" Key="cell_snow_3.png" />
+              <PlistImageFile Name="cell_snow_4.png" Key="cell_snow_4.png" />
+              <PlistImageFile Name="cell_snow_5.png" Key="cell_snow_5.png" />
+              <PlistImageFile Name="cell_snow_6.png" Key="cell_snow_6.png" />
+              <PlistImageFile Name="cell_sprite_1.png" Key="cell_sprite_1.png" />
+              <PlistImageFile Name="cell_sprite_2.png" Key="cell_sprite_2.png" />
+              <PlistImageFile Name="cell_sprite_3.png" Key="cell_sprite_3.png" />
+              <PlistImageFile Name="cell_sprite_4.png" Key="cell_sprite_4.png" />
+              <PlistImageFile Name="cell_sprite_5.png" Key="cell_sprite_5.png" />
+              <PlistImageFile Name="cell_sprite_6.png" Key="cell_sprite_6.png" />
+              <PlistImageFile Name="cell_sprite_full.png" Key="cell_sprite_full.png" />
+              <PlistImageFile Name="cell_white_1.png" Key="cell_white_1.png" />
+              <PlistImageFile Name="cell_white_2.png" Key="cell_white_2.png" />
+              <PlistImageFile Name="cell_white_3.png" Key="cell_white_3.png" />
+              <PlistImageFile Name="cell_white_4.png" Key="cell_white_4.png" />
+              <PlistImageFile Name="cell_white_5.png" Key="cell_white_5.png" />
+              <PlistImageFile Name="cell_white_6.png" Key="cell_white_6.png" />
+              <PlistImageFile Name="clip_sprite_1.png" Key="clip_sprite_1.png" />
+              <PlistImageFile Name="clip_sprite_2.png" Key="clip_sprite_2.png" />
+              <PlistImageFile Name="clip_sprite_3.png" Key="clip_sprite_3.png" />
+              <PlistImageFile Name="drop_sprite_1.png" Key="drop_sprite_1.png" />
+              <PlistImageFile Name="drop_sprite_2.png" Key="drop_sprite_2.png" />
+              <PlistImageFile Name="drop_sprite_3.png" Key="drop_sprite_3.png" />
+              <PlistImageFile Name="drop_sprite_4.png" Key="drop_sprite_4.png" />
+              <PlistImageFile Name="monst_sprite_1.png" Key="monst_sprite_1.png" />
+              <PlistImageFile Name="monst_sprite_2.png" Key="monst_sprite_2.png" />
+              <PlistImageFile Name="road_sign.png" Key="road_sign.png" />
+              <PlistImageFile Name="stone_blue.png" Key="stone_blue.png" />
+              <PlistImageFile Name="stone_gray.png" Key="stone_gray.png" />
+              <PlistImageFile Name="stone_green.png" Key="stone_green.png" />
+              <PlistImageFile Name="stone_purple.png" Key="stone_purple.png" />
+              <PlistImageFile Name="stone_red.png" Key="stone_red.png" />
+              <PlistImageFile Name="stone_yellow.png" Key="stone_yellow.png" />
+              <PlistImageFile Name="tree_sprite_1.png" Key="tree_sprite_1.png" />
+              <PlistImageFile Name="tree_sprite_2.png" Key="tree_sprite_2.png" />
+              <PlistImageFile Name="tree_sprite_3.png" Key="tree_sprite_3.png" />
+            </PlistImageFolder>
+            <Image Name="aaa_bt_buy.png" />
+            <Image Name="aaa_bt_free.png" />
+            <Image Name="back_award.png" />
+            <Image Name="back_lingqu.png" />
+            <Image Name="back_word.png" />
+            <Image Name="bag.png" />
+            <Image Name="bag_san.png" />
+            <Image Name="bag_si.png" />
+            <Image Name="battle_bt_back.png" />
+            <Image Name="battle_bt_close.png" />
+            <Image Name="battle_bt_menu.png" />
+            <Image Name="battle_bt_next.png" />
+            <Image Name="battle_bt_pause.png" />
+            <Image Name="battle_bt_recover.png" />
+            <Image Name="battle_bt_relive.png" />
+            <Image Name="battle_bt_restar.png" />
+            <Image Name="battle_bt_start.png" />
+            <Image Name="battle_cross_score.png" />
+            <Image Name="battle_cross_tips.png" />
+            <Image Name="battle_cross_tips2.png" />
+            <Image Name="battle_cross_tips3.png" />
+            <Image Name="battle_down_back.png" />
+            <Image Name="battle_line_back.png" />
+            <Image Name="battle_line_sprite.png" />
+            <Image Name="battle_line_star.png" />
+            <Image Name="battle_lose_tips.png" />
+            <Image Name="battle_none_reback.png" />
+            <Image Name="battle_none_reback_shine12.png" />
+            <Image Name="battle_none_tips.png" />
+            <Image Name="battle_pause_ended.png" />
+            <Image Name="battle_pause_goon.png" />
+            <Image Name="battle_pause_relive.png" />
+            <Image Name="battle_pause_title.png" />
+            <Image Name="battle_recross_a.png" />
+            <Image Name="battle_recross_back.png" />
+            <Image Name="battle_recross_tips.png" />
+            <Image Name="battle_recross_vip.png" />
+            <Image Name="battle_relive_back.png" />
+            <Image Name="battle_relive_gift.png" />
+            <Image Name="battle_relive_gift_back.png" />
+            <Image Name="battle_relive_tips.png" />
+            <Image Name="battle_top_back.png" />
+            <Image Name="bear_body.png" />
+            <Image Name="bear_foot.png" />
+            <Image Name="bear_hand.png" />
+            <Image Name="bear_weijin.png" />
+            <Image Name="birth1.png" />
+            <Image Name="birth2.png" />
+            <Image Name="birth3.png" />
+            <Image Name="body.png" />
+            <Image Name="btn_cantouch.png" />
+            <Image Name="cell_seleted_bling.png" />
+            <Image Name="cell_sprite_full_shine.png" />
+            <Image Name="effect_3x3.png" />
+            <Image Name="effect_4x1.png" />
+            <Image Name="eye.png" />
+            <Image Name="eyebrow.png" />
+            <Image Name="FlareBlue_fb01.png" />
+            <Image Name="fly_ice.png" />
+            <Image Name="foot.png" />
+            <Image Name="gift_shine.png" />
+            <Image Name="gree_back.png" />
+            <Image Name="gree_eye.png" />
+            <Image Name="gree_head.png" />
+            <Image Name="gree_head2.png" />
+            <Image Name="gree_leftEar.png" />
+            <Image Name="gree_mouth.png" />
+            <Image Name="gree_rightEar.png" />
+            <Image Name="gree_snow.png" />
+            <Image Name="gree_star.png" />
+            <Image Name="gree_yun.png" />
+            <Image Name="guangquan_03_1.png" />
+            <Image Name="hand.png" />
+            <Image Name="hat.png" />
+            <Image Name="head.png" />
+            <Image Name="ice1.png" />
+            <Image Name="ice10.png" />
+            <Image Name="ice6.png" />
+            <Image Name="item_makesure_tips.png" />
+            <Image Name="item_sprite_1.png" />
+            <Image Name="item_sprite_2.png" />
+            <Image Name="item_sprite_31.png" />
+            <Image Name="item_sprite_32.png" />
+            <Image Name="item_sprite_33.png" />
+            <Image Name="item_sprite_34.png" />
+            <Image Name="item_sprite_35.png" />
+            <Image Name="item_sprite_36.png" />
+            <Image Name="item_sprite_4.png" />
+            <Image Name="item_sprite_5.png" />
+            <Image Name="jing_bg.png" />
+            <Image Name="jing_bottle.png" />
+            <Image Name="jing_bottleMan.png" />
+            <Image Name="jing_coinBut.png" />
+            <Image Name="jing_continue.png" />
+            <Image Name="jing_fullButton.png" />
+            <Image Name="jing_jingli.png" />
+            <Image Name="jing_man.png" />
+            <Image Name="jing_shiyong.png" />
+            <Image Name="jing_snowBall.png" />
+            <Image Name="leg.png" />
+            <Image Name="li_award.png" />
+            <Image Name="li_word.png" />
+            <Image Name="lost5_bt_buy.png" />
+            <Image Name="lost5_bt_goon.png" />
+            <Image Name="lost5_tips.png" />
+            <Image Name="mainmenu_info.png" />
+            <Image Name="mainmenu_more.png" />
+            <Image Name="mustache.png" />
+            <Image Name="power_add_30.png" />
+            <Image Name="snowmantips_buy.png" />
+            <Image Name="snowmantips_cancel.png" />
+            <Image Name="snowmantips_title.png" />
+            <Image Name="spark.png" />
+            <Image Name="star.png" />
+            <Image Name="star_03.png" />
+            <Image Name="star_bomb.png" />
+            <Image Name="star2.png" />
+            <Image Name="vipper_sprite.png" />
+            <Image Name="xianShou_word.png" />
+            <Image Name="xuan_xingxing.png" />
+          </Folder>
+          <Folder Name="menu">
+            <Image Name="logo.png" />
+            <Image Name="menu_bridge.png" />
+            <Image Name="menu_cloud1.png" />
+            <Image Name="menu_cloud2.png" />
+            <Image Name="menu_play.png" />
+            <Image Name="music_bt_off.png" />
+            <Image Name="music_bt_on.png" />
+            <Image Name="sound_bt_off.png" />
+            <Image Name="sound_bt_on.png" />
+          </Folder>
+          <Folder Name="newPlayer">
+            <Image Name="xinShou_award.png" />
+            <Image Name="xinshou_info.png" />
+            <Image Name="xinShou_lingqu.png" />
+            <Image Name="xinshou_shou.png" />
+          </Folder>
+          <Folder Name="particle">
+            <PlistParticleFile Name="boom_atomization.plist" />
+            <PlistParticleFile Name="boom_crystal_1.plist" />
+            <PlistParticleFile Name="boom_crystal_2.plist" />
+            <PlistParticleFile Name="boom_crystal_3.plist" />
+            <PlistParticleFile Name="boom_crystal_4.plist" />
+            <PlistParticleFile Name="boom_crystal_5.plist" />
+            <PlistParticleFile Name="boom_crystal_6.plist" />
+            <PlistParticleFile Name="boom_disruption.plist" />
+            <PlistParticleFile Name="button_booms.plist" />
+            <PlistParticleFile Name="button_flies.plist" />
+            <PlistParticleFile Name="button_shadow.plist" />
+            <PlistParticleFile Name="color_shadow.plist" />
+            <PlistParticleFile Name="dongtian.plist" />
+            <PlistParticleFile Name="fly_boom.plist" />
+            <PlistParticleFile Name="fly_every.plist" />
+            <PlistParticleFile Name="hight_light.plist" />
+            <PlistParticleFile Name="ice_fly.plist" />
+            <PlistParticleFile Name="jewel_shaking.plist" />
+            <PlistParticleFile Name="lost_fly.plist" />
+          </Folder>
+          <Folder Name="pet">
+            <Image Name="battle_bt_gopet.png" />
+            <Image Name="battle_recross_b.png" />
+            <Image Name="pet_bt_ups.png" />
+            <Image Name="pet_hurt_back.png" />
+            <Image Name="pet_level_back.png" />
+            <Image Name="pet_level_score.png" />
+            <Image Name="pet_seleted.png" />
+            <Image Name="pet_shadow_1.png" />
+            <Image Name="pet_shadow_2.png" />
+            <Image Name="pet_shadow_3.png" />
+            <Image Name="pet_shadow_4.png" />
+            <Image Name="pet_shadow_5.png" />
+            <Image Name="pet_talk_back.png" />
+            <Image Name="snowUpgrade_button.png" />
+            <Image Name="snowUpgrade_fight.png" />
+            <Image Name="snowUpgrade_title.png" />
+            <Image Name="snowUpgrade_weiyang.png" />
+            <Image Name="snowUpgrade_wordBg.png" />
+          </Folder>
+          <Folder Name="signin">
+            <Image Name="every_bt_big.png" />
+            <Image Name="every_bt_bu.png" />
+            <Image Name="every_bt_close.png" />
+            <Image Name="tanChuang_close.png" />
+          </Folder>
+          <Folder Name="store">
+            <Image Name="battle_recross_task.png" />
+            <Image Name="shop_back_big.png" />
+            <Image Name="shop_back_small.png" />
+            <Image Name="shop_bao_1.png" />
+            <Image Name="shop_bao_2.png" />
+            <Image Name="shop_bao_3.png" />
+            <Image Name="shop_bao_4.png" />
+            <Image Name="shop_bt_1a.png" />
+            <Image Name="shop_bt_1b.png" />
+            <Image Name="shop_bt_2a.png" />
+            <Image Name="shop_bt_2b.png" />
+            <Image Name="shop_bt_3a.png" />
+            <Image Name="shop_bt_3b.png" />
+            <Image Name="shop_bt_base.png" />
+            <Image Name="shop_bt_snow.png" />
+            <Image Name="shop_snow_1.png" />
+            <Image Name="shop_snow_2.png" />
+            <Image Name="shop_title.png" />
+            <Image Name="zhe_6.png" />
+            <Image Name="zhe_7.png" />
+            <Image Name="zhe_8.png" />
+          </Folder>
+          <Folder Name="titleMap">
+            <TmxFile Name="1.tmx" />
+            <Image Name="blocks.png" />
+          </Folder>
+        </Folder>
+        <Project Name="cell_red_gem.csd" Type="Node" />
+        <Project Name="ChpterScene.csd" Type="Scene" />
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Project Name="MainScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
